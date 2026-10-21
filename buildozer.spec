@@ -9,6 +9,7 @@ requirements = python3,kivy,pypdf
 orientation = portrait
 android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 android.api = 33
+android.accept_sdk_license = True
 android.archs = arm64-v8a
 
 [buildozer]
